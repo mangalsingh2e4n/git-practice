@@ -7,4 +7,5 @@
 
 ## mirchi-bajii
 * green chilly
-* fill masal by sliting it,wrap in batter and deep fry it
+* fill masal by sliting it,wrap in batter
+* deep fry it
