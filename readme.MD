@@ -2,3 +2,4 @@
 
 ## samosa preparationstarted
 * boiled potato
+* mash potato
