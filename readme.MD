@@ -12,3 +12,5 @@
 
 ## chicken-samosa
 * minced chicken
+* add masala with chicekn and cook it
+* prepare maida base and stuff chicken in it.
