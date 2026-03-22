@@ -10,3 +10,5 @@
 * fill masal by sliting it,wrap in batter
 * deep fry it
 
+## chicken-samosa
+* minced chicken
