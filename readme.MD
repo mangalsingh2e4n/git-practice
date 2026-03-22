@@ -14,3 +14,7 @@
 * minced chicken
 * add masala with chicekn and cook it
 * prepare maida base and stuff chicken in it.
+
+## chicken-pakodi
+* dice the chicken
+* add spices to chicken
